@@ -1,0 +1,11 @@
+Load stats for active players in (remove inactives)
+
+Create dictionaries for each game where each player is the key and their point value is the value
+
+Generate a list of all 1820 possible teams (16 choose 4)
+
+Generate a list of n sets of 4 unique teams
+
+Calculate a "closeness index" for each set
+
+Output each set of teams and its closeness index
